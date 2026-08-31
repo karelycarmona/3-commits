@@ -1,0 +1,2 @@
+Día 2 - Introducción al concepto de perceptrón
+El perceptrón es un modelo básico de neurona artificial utilizado para clasificación.
